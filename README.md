@@ -4,7 +4,7 @@ If you wish to test the Smarthome UI app on your local machine, please install d
 
 Then use _npm start_ command to run the application in development mode or _npm run build_ command to build a shippable folder of static files.
 
-In the latter case you may serve it with a static server package:
+You may serve it with a static server package:
 
 _npm install -g serve_
 _serve -s build_
